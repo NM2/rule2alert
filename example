@@ -1,0 +1,1 @@
+python r2a.py -C suricata.yaml -f tmp/rule.txt -w test.pcap -r
